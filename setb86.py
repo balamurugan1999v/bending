@@ -12,6 +12,6 @@ for i in range(b):
   if co==1:
     break
 if co==1:
-  print ("no")
+  print ("No")
 else:
-  print("yes")
+  print("Yes")
